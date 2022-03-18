@@ -1,2 +1,2 @@
 # XSLT
-Ejercicios de XSLT
+Ejercicios resueltos de XSLT y XSL.
